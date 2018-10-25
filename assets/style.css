@@ -1,0 +1,107 @@
+
+.mainTable{
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 50px;
+}
+
+.form-inline{
+margin-left: 105px;
+}
+.form-inline button {
+    margin-right: 20px;
+}
+.btn-outline-light{
+    margin: 15px 20px 5px;
+    width: 150px;
+    height: 150px;
+    display: inline;
+    border-radius: 0;
+
+}
+
+.btn-outline-danger{
+    margin: 15px 20px 5px;
+    width: 150px;
+    height: 150px;
+    display: inline;
+    border-radius: 0;
+}
+.buttonContainer{
+    text-align: center;
+}
+.jumbotron-fluid{
+}
+body{
+    background-color: black;
+}
+.footer p{
+    color: white;
+    text-align: center;
+}
+.footer{
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.addForm{
+    width: 300px;
+    text-align: left;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 40px;
+    background-color: white;
+    padding: 30px;
+}
+.editForm{
+
+    text-align: left;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    background-color: white;
+    padding: 30px;
+}
+.deleteForm{
+
+    text-align: left;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 40px;
+    background-color: white;
+    padding: 30px;
+}
+.addForm p {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.addForm button{
+    margin-left: 75px;
+    margin-top: 20px;
+}
+.importForm{
+
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 40px;
+    background-color: white;
+    padding: 30px;
+}
+#importFormButtonBack{
+    text-align: center;
+}
+
+#addFormButtonBack{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.importAndExportForm{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    text-align: center;
+}
